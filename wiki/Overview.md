@@ -1,4 +1,4 @@
-- [Introduction](wiki/Home.md)
+- [Introduction](Home.md)
 - [The Concept](wiki/The-Concept.md)
 - [Belt Activities](wiki/Belt-Activities.md)
 - [Roles](wiki/Roles.md)
