@@ -13,4 +13,4 @@ You learn advanced methods and tools for identifying and exploiting vulnerabilit
 - [Logging Concept](logging-concept.md)
 - [Testing for Bypassing Authentication Schema](testing-for-bypassing-authentication-schema.md)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MJWT29X">Send Feedback</a></p>
+<p align="right">Send Feedback</p>
