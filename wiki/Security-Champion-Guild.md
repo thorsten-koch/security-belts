@@ -1,0 +1,5 @@
+The Security Champion Guild is a guild as known from the [Spotify model](https://www.atlassian.com/agile/agile-at-scale/spotify). Security Champions participate to get feedback on security-related topics from outside their teams such as individual questions, second opinions, and code/concept reviews.
+
+The main task of the guild is to spread the Security Belts in the organization. The guild conducts belt assessments and actively improves the maturity model.
+
+All Security Champions and only these are part of the guild. Otherwise, the champions would not learn from each other and the quality of the guild's outcome is at risk as Security Champions have a dedicated training, which other developers have not. If a central security department exists within the company, then the guild and this department need to collaborate.
