@@ -28,4 +28,4 @@
 
 - Literature: [OWASP Security Knowledge Framework](https://owasp.org/www-project-security-knowledge-framework/)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

@@ -22,4 +22,4 @@
   - Authentication, authorization
   - Session management
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

@@ -44,4 +44,4 @@
 
 - Literature: [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

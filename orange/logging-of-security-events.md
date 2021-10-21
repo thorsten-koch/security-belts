@@ -27,4 +27,4 @@ The following events tend to be security relevant:
 - Literature: [How attacker can exploit logger](https://owasp.org/www-community/attacks/Log_Injection)
 - Tool: [OWASP AppSensor](http://www.appsensor.org)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

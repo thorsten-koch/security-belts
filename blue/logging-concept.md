@@ -38,4 +38,4 @@ Make sure your concept considers the following aspects:
 
 - Literature: [GDPR](https://gdpr.eu/)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

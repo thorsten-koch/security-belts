@@ -24,4 +24,4 @@
 - Tool: [Jenkins Next Generation Warnings plugin](https://plugins.jenkins.io/warnings-ng/)
 - Tool: [Grafana](https://grafana.com/)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

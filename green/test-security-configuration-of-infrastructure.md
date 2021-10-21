@@ -32,4 +32,4 @@
 - Tool: [nessus](https://www.tenable.com/products/nessus)
 - Tool: [OpenVAS](https://www.openvas.org/)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

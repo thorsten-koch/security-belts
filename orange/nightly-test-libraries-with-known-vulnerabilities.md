@@ -23,4 +23,4 @@
 - Tool: [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/)
 - Literature: [OWASP Top Ten: 9. Using Components with Known Vulnerabilities](https://owasp.org/www-project-top-ten/2017/A9_2017-Using_Components_with_Known_Vulnerabilities)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

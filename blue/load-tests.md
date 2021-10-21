@@ -30,4 +30,4 @@
 - Tool: [Burp](https://portswigger.net/burp)
 - Tool: [ffuf](https://github.com/ffuf/ffuf)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

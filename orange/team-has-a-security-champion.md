@@ -22,4 +22,4 @@
 - Literature: "Selecting Security Champions" by Trevor Gabriel et al., 2011
 - Training: [Fraunhofer IEM - Security Champion Training](https://www.iem.fraunhofer.de/de/academy/schulungsangebot/security-champion-training.html)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

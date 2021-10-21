@@ -32,4 +32,4 @@ Be aware, by introducing this activity, you might have a backlog with many findi
 
 - Tool: [Jenkins Next Generation Warnings plugin](https://plugins.jenkins.io/warnings-ng/)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

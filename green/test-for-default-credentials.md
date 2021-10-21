@@ -25,4 +25,4 @@
 - Tool: [nmap script for http default accounts](https://nmap.org/nsedoc/scripts/http-default-accounts.html)
 - Literature: [OWASP Testing Guide 4.4.2](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/04-Authentication_Testing/02-Testing_for_Default_Credentials.html)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

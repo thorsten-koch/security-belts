@@ -31,4 +31,4 @@ A common mistake is to assume that authenticating a user only on the main page i
 - Tool: [Gobuster](https://github.com/OJ/gobuster)
 - Specification: [OpenAPI](https://www.openapis.org/)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

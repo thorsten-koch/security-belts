@@ -42,4 +42,4 @@ Guidelines for your advanced mob hacking session:
 - Training: [Hack the Box](https://www.hackthebox.eu/)
 - Training: [Web Security Academy](https://portswigger.net/web-security)
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>

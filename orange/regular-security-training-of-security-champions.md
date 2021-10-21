@@ -29,4 +29,4 @@ Some example conferences that offer trainings:
 - SecAppDev
 - HITB
 
-<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
+<p align="right">Send Feedbac</p>
