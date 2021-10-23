@@ -34,6 +34,6 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 
 This getting started is primarily aimed at developers.
 
-- Become familiar with our [Security Belts concepts](wiki/The-Concept) such that you can explain them to your colleagues. In the future, we will provide slides to ease this task.
-- Identify colleagues (developers, Product Owners, managers) in your company that already want to improve the secure software development. They can discuss with you how to implement security belts in your company. Found the [Security Champion Guild](wiki/Security-Champion-Guild) with them.
+- Become familiar with our [Security Belts concepts](wiki/The-Concept.md) such that you can explain them to your colleagues. In the future, we will provide slides to ease this task.
+- Identify colleagues (developers, Product Owners, managers) in your company that already want to improve the secure software development. They can discuss with you how to implement security belts in your company. Found the [Security Champion Guild](wiki/Security-Champion-Guild.md) with them.
 - Persuade your team to start working on the [White Belt](white/README.md).
